@@ -213,7 +213,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ```
-## product page
+## product.html
 ```
 <html>
     <head>
