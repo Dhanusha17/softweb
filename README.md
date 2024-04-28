@@ -835,6 +835,8 @@ Publish the website in the given URL.
 ## OUTPUT:
 ![Screenshot 2024-04-27 233927](https://github.com/Dhanusha17/softweb/assets/151549957/1cbf3b32-230d-40c0-86de-2bfab24d0877)
 
+
+
 ![Screenshot 2024-04-28 103033](https://github.com/Dhanusha17/softweb/assets/151549957/0eb4ef86-63d2-4835-a5e9-082cfea05ed1)
 
 
@@ -842,6 +844,8 @@ Publish the website in the given URL.
 
 
 ![Screenshot 2024-04-28 103105](https://github.com/Dhanusha17/softweb/assets/151549957/1b1e2b73-5244-4820-b545-e06a5099af96)
+
+
 
 ![Screenshot 2024-04-28 103116](https://github.com/Dhanusha17/softweb/assets/151549957/72e20d06-2eb6-41b7-a16b-92933564b3dd)
 
